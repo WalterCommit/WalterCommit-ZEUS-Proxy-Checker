@@ -2,6 +2,8 @@
 
 > **Türkçe:** En hızlı, en karizmatik ve en anime proxy checker'ı – Rias Gremory onayladı ✓  
 > **English:** The fastest, sexiest and most anime proxy checker ever – Approved by Rias Gremory ✓
+(https://github.com/user-attachments/assets/75af2ea7-91a0-4a61-9906-0ab891a32f6c)
+(https://github.com/user-attachments/assets/ce269262-5c17-4033-b14a-e5acfe50c3c2)
 
 ## Özellikler | Features
 - 150+ eş zamanlı thread ile ultra hızlı kontrol  
@@ -40,12 +42,18 @@
 4. When finished, good.txt will appear on Desktop + other locations automatically
 
 ## Virüs Total?
-0/70 – tamamen temiz | Completely clean  
-(PyInstaller kaynaklı false positive olabilir → `--noupx` ile sıfırlanır)
+balck 
+https://www.virustotal.com/gui/file/04f2afe36a887cfd171f264a940b591d68f1f172abfcad54476aa65757d19f18?nocache=1
+anıme 
+https://www.virustotal.com/gui/file/21c5f76cb8331f81c9478fef11687e8521f8cd6a91d6f1e4169485517ec1f9b7?nocache=1
 
 ## Lisans | License
 Bu araç sadece eğitim ve kişisel kullanım içindir.  
 Kötüye kullanım tamamen kullanıcının sorumluluğundadır.
+
+## Download & indirme
+https://gofile.io/d/eommpM
+https://gofile.io/d/eJSZhx
 
 
 This tool is only for educational and personal use.  
